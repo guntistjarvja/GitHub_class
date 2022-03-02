@@ -1,2 +1,2 @@
 print("Guntis")
-print('Dana')
+print("Dana")
