@@ -1,4 +1,5 @@
 print("Guntis")
+print("Dana")
 print("Amanda")
 print("Andrejs")
 print("Vadims")
