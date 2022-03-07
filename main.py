@@ -1,4 +1,5 @@
 print("Guntis")
+print("Lauris")
 print("Iļja")
 print("Lāsma")
 print("Lavr")
